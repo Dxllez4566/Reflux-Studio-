@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Digital Audio Workstation (DAW)",
+  "description": "A fully-featured modern browser-based DAW featuring multitrack playback, synthesizers, drum sequencing, real-time effects, sample browser, and a double-tap-to-edit piano roll.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
